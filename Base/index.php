@@ -11,7 +11,7 @@
 <meta http-equiv="content-type" content="text/html"; charset="utf-8">
     <title>B&uuml;rgerinititaive Lausb&ouml;hl</title>
 <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="/style/lbv2.css">
+    <link rel="stylesheet" type="text/css" href="style/lbv2.css">
     <link rel="stylesheet" type="text/css" href="style/content.css">
 </head>
     <header>
