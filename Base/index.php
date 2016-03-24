@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <?php 
 //ToDo: Place PHP here
 ?>
